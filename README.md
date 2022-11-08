@@ -25,3 +25,4 @@ My![Visitor Count](https://profile-counter.glitch.me/Leevan001/count.svg)vistors
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leevan001&layout=compact)](https://github.com/Leevan001/github-readme-stats)
 
 ![Leevan001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leevan001&show_icons=true&theme=tokyonight)
+![webQR](https://github.com/Leevan001/Markdown_notes/blob/main/imgs/qrcode.png?raw=true)
